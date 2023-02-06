@@ -1,3 +1,6 @@
+#Sort 0's 1's 2's
+#logic-1
+
 inp="012012012012012"
 out=""
 temp=""
