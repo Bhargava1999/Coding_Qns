@@ -13,3 +13,5 @@ for i in inp:
         temp=temp+i
 out=out+temp
 print(out)
+
+#time complexity: O(N)
